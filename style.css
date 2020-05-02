@@ -3,9 +3,22 @@ nav{
 }
 body{
     background-image: url("img/cielor.jpg");
+    background-attachment: fixed;
     background-repeat: space;
     font-family: Merienda-Regular !important;
     
+}
+.card-header{
+  background-color: rgb(212, 155, 47);
+}
+.link{
+  color: rgb(212, 155, 47);
+}
+.link:hover{
+  color:#fb8c00;
+}
+.sign_up, .sign_in{
+  border:2px solid #fb8c00;
 }
 .text{
     font-size: 1.5em;

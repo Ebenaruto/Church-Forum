@@ -4,7 +4,7 @@ include_once('header.php');
 <!-- Material form login -->
 <div class="card">
 
-  <h5 class="card-header info-color white-text text-center py-4">
+  <h5 class="card-header white-text text-center py-4">
     <strong>Sign in</strong>
   </h5>
 
@@ -12,7 +12,7 @@ include_once('header.php');
   <div class="card-body px-lg-5 pt-0">
 
     <!-- Form -->
-    <form class="text-center" style="color: #757575;" action="#!">
+    <form class="text-center" style="color: #fb8c00;" action="#!">
 
       <!-- Email -->
       <div class="md-form">
@@ -31,25 +31,25 @@ include_once('header.php');
           <!-- Remember me -->
           <div class="form-check">
             <input type="checkbox" class="form-check-input" id="materialLoginFormRemember">
-            <label class="form-check-label" for="materialLoginFormRemember">Remember me</label>
+            <label class="form-check-label" for="materialLoginFormRemember">Remember me  </label>
           </div>
         </div>
         <div>
           <!-- Forgot password -->
-          <a href="">Forgot password?</a>
+          <a href="" class="link"> Forgot password ?</a>
         </div>
       </div>
 
       <!-- Sign in button -->
-      <button class="btn btn-outline-info btn-rounded btn-block my-4 waves-effect z-depth-0" type="submit">Sign in</button>
+      <button class="btn  btn-rounded btn-block my-4 waves-effect z-depth-0 sign_in" type="submit">Sign in</button>
 
       <!-- Register -->
-      <p>Not a member?
-        <a href="Inscription.php">Register</a>
+      <p>Pas membre ?
+        <a href="Inscription.php" class="link"> Inscription</a>
       </p>
 
       <!-- Social login -->
-      <p>or sign in with:</p>
+      <p>or Inscrivez vous :</p>
       <a type="button" class="btn-floating btn-fb btn-sm">
         <i class="fab fa-facebook-f"></i>
       </a>

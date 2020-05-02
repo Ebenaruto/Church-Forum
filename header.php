@@ -34,7 +34,7 @@
         <!-- Left -->
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#" id="men">Acceuil
+            <a class="nav-link" href="index.php" id="men">Acceuil
               <span class="sr-only">(current)</span>
             </a>
           </li>

@@ -4,7 +4,7 @@ include_once('header.php');
 <!-- Material form register -->
 <div class="card">
 
-    <h5 class="card-header info-color white-text text-center py-4">
+    <h5 class="card-header  white-text text-center ">
         <strong>Sign up</strong>
     </h5>
 
@@ -62,7 +62,7 @@ include_once('header.php');
             </div>
 
             <!-- Sign up button -->
-            <button class="btn btn-outline-info btn-rounded btn-block my-4 waves-effect z-depth-0" type="submit">Sign in</button>
+            <button class="btn  btn-rounded btn-block my-4 waves-effect z-depth-0 sign_up" type="submit">Sign in</button>
 
             <!-- Social register -->
             <p>or sign up with:</p>
@@ -85,7 +85,7 @@ include_once('header.php');
             <!-- Terms of service -->
             <p>By clicking
                 <em>Sign up</em> you agree to our
-                <a href="" target="_blank">terms of service</a>
+                <a href="" target="_blank" class="link">terms of service</a>
 
         </form>
         <!-- Form -->

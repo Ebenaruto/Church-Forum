@@ -12,18 +12,18 @@ include_once('header.php');
   <div class="card-body px-lg-5 pt-0">
 
     <!-- Form -->
-    <form class="text-center" style="color: #fb8c00;" action="#!">
+    <form class="text-center" style="color: #fb8c00;" action="# " method="post">
 
       <!-- Email -->
       <div class="md-form">
-        <input type="email" id="materialLoginFormEmail" class="form-control">
+        <input type="email" id="materialLoginFormEmail" class="form-control" require="required">
         <label for="materialLoginFormEmail">E-mail</label>
       </div>
 
       <!-- Password -->
       <div class="md-form">
-        <input type="password" id="materialLoginFormPassword" class="form-control">
-        <label for="materialLoginFormPassword">Password</label>
+        <input type="password" id="materialLoginFormPassword" class="form-control" require="required">
+        <label for="materialLoginFormPassword" >Password</label>
       </div>
 
       <div class="d-flex justify-content-around">

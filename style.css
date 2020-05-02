@@ -1,8 +1,9 @@
 nav{
     background-color: rgb(212, 155, 47) !important;
+    font-family:serif;
 }
 body{
-    background-image: url("img/cielor.jpg");
+    background-image: url("img/sky.jpg");
     background-attachment: fixed;
     background-repeat: space;
     font-family: Merienda-Regular !important;

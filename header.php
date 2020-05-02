@@ -1,5 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Material Design for Bootstrap</title>
+  <!-- MDB icon -->
+  <link rel="icon" href="img/mdb-favicon.ico" type="image/x-icon">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="fontawesome/css/all.css">
+  <!-- Google Fonts Roboto -->
+  <link rel="stylesheet" href="google_font">
+  <!-- Bootstrap core CSS -->
+  <link rel="stylesheet" href="MDB/css/bootstrap.min.css">
+  <!-- Material Design Bootstrap -->
+  <link rel="stylesheet" href="MDB/css/mdb.min.css">
+  <!-- Your custom styles (optional) -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
      <!-- Navbar -->
-   <nav class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar">
+   <nav class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar" id="nvbr">
     <div class="container">
       <!-- Collapse -->
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -26,6 +47,9 @@
           <li class="nav-item">
             <a class="nav-link" href="#" id="men">Structure de l'Eglise</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="connexion.php" id="men">Inscription/Connexion</a>
+          </li>
         </ul>
 
         <!-- Right -->
@@ -48,17 +72,12 @@
     </div>
   </nav>
   <!-- Navbar -->
-  
-  
   <div class="view">
     <!-- Mask & flexbox options-->
     <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
+  <!-- Content -->
+  <div class="text-center white-text mx-5 wow fadeIn">
+  
+    
+  
 
-      <!-- Content -->
-      <div class="text-center white-text mx-5 wow fadeIn">
-      <h2 class="animated fadeIn"><span class="text"> Eglise des Assemblées de Dieu de Cissin1</span></h2>
-      <h2><span class="thm"> <blockquote> "Seigneur, que veux tu que je fasse pour toi?"</blockquote> </span></h2>
-      </div>
-    <!-- Mask & flexbox options-->
-    </div>
-  </div>

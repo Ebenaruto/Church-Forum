@@ -3,7 +3,7 @@ nav{
     font-family:serif;
 }
 body{
-    background-image: url("img/sky.jpg");
+    background-image: url("img/cielor.jpg");
     background-attachment: fixed;
     background-repeat: space;
     font-family: Merienda-Regular !important;
@@ -85,12 +85,26 @@ html,body,header,.view {
       }
     }
 #mafoot{
-        position: relative;
+        position:inherit;
         bottom: 0;
         width: 100%;
         background-color: rgb(212, 155, 47) !important;
-       z-index:9999999;}
+      }
 #nvbr{
-  position:relative;
+  position:inherit;
   top: 0;
+}
+
+.thumbnail{
+ background-color: white;
+ color:black;
+
+}
+.text{
+  font-family: sans-serif;
+  font-size: large;
+  color:black;
+  font-weight: 300;
+  text-align: left;
+  padding:40px;
 }

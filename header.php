@@ -39,7 +39,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#" id="men">Actualité</a>
+            <a class="nav-link" href="article.php" id="men">Actualité</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#" id="men">Enseignements</a>

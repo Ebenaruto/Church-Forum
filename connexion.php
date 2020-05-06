@@ -1,5 +1,5 @@
-<?php 
-include_once('header.php');
+<?php
+include_once 'header.php';
 ?>
 <!-- Material form login -->
 <div class="card">
@@ -70,6 +70,6 @@ include_once('header.php');
 
 </div>
 <!-- Material form login -->
-<?php 
-include_once('footer.php');
+<?php
+include_once 'footer.php';
 ?>

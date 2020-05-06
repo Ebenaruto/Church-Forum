@@ -1,4 +1,4 @@
-<?php 
+<?php
 include_once('header.php');
 ?>
 <!-- Material form register -->
@@ -94,6 +94,6 @@ include_once('header.php');
 
 </div>
 <!-- Material form register -->
-<?php 
+<?php
 include_once('footer.php');
 ?>

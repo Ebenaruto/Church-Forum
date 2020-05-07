@@ -1,5 +1,5 @@
 <?php
-include_once('header.php');
+include_once 'header.php';
 ?>
 <!-- Material form register -->
 <div class="card">
@@ -95,5 +95,5 @@ include_once('header.php');
 </div>
 <!-- Material form register -->
 <?php
-include_once('footer.php');
+include_once 'footer.php';
 ?>

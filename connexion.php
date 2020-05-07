@@ -12,7 +12,7 @@ include_once 'header.php';
   <div class="card-body px-lg-5 pt-0">
 
     <!-- Form -->
-    <form class="text-center" style="color: #fb8c00;" action="# " method="post">
+    <form class="text-center" style="color: #fb8c00;" action="login.php " method="post">
 
       <!-- Email -->
       <div class="md-form">

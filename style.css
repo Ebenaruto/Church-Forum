@@ -3,14 +3,21 @@
   position: fixed;
   color: gray;
 }
-.navi a {
+.logo{
+  
+  width:45px;
+  height:45px;
+  border-radius:20px 20px 20px 20px;
+  border-color: aliceblue;
+}
+/*.navi a {
   font-size: large;
   font-variant: small-caps;
   font-style: oblique;
   font-kerning: normal;
   color: white;
   font-weight: 400;
-}
+}*/
 
 .intern {
   background-image: url("img/prayer.jpg");

@@ -3,11 +3,10 @@
   position: fixed;
   color: gray;
 }
-.logo{
-  
-  width:45px;
-  height:45px;
-  border-radius:20px 20px 20px 20px;
+.logo {
+  width: 45px;
+  height: 45px;
+  border-radius: 20px 20px 20px 20px;
   border-color: aliceblue;
 }
 .navi a {
@@ -20,7 +19,7 @@
 }
 
 .intern {
-  background-image: url("img/prayer.jpg");
+  background-image: url("img/quote.jpg");
   background-size: cover;
   background-position: 5%;
   background-attachment: fixed;
@@ -36,10 +35,11 @@
   font-style: oblique;
   font-weight: 500;
 }
-.hr{
-  width:200px;
-  color:white;
-  border:3px dotted white;
+.hr {
+  width: 300px;
+  color: white;
+  border: 0.2px solid white;
+  padding-right:100px ;
 }
 .foot {
   margin-top: 400px;

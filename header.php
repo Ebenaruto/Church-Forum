@@ -21,9 +21,9 @@
   <!-- Navbar -->
 
  <nav class="nav bg-transparent justify-content-left navi">
-   <a class="nav-link " href="#">Active link</a>
-   <a class="nav-link " href="#">Link</a>
-   <a class="nav-link " href="#">Disabled link</a>
+   <a class="nav-link " href="index.php">Acceuil</a>
+   <a class="nav-link " href="articles">Articles</a>
+   <a class="nav-link " href="connexion.php">Connexion/Inscription</a>
    <a class="nav-link "><i class="fab fa-facebook"></i></a>
    <a class="nav-link "><i class="fab fa-twitter"></i></a>
  </nav>

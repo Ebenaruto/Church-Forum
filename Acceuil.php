@@ -1,4 +1,4 @@
-<div class="row intern">
+<div class="row intern ">
       <div class=" col-lg-4 col-md-4 col-sm-12 col-xm-12">
 
       </div>

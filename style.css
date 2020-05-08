@@ -1,19 +1,34 @@
 .navi {
   font-family: Tahoma, Geneva, Verdana, sans-serif;
+  position: fixed;
+  color: gray;
+}
+.navi a {
+  font-size: large;
+  font-variant: small-caps;
+  font-style: oblique;
+  font-kerning: normal;
+  color: white;
+  font-weight: 400;
 }
 
 .intern {
-  background-image: url("img/cielor.jpg");
+  background-image: url("img/prayer.jpg");
   background-size: cover;
+  background-position: 5%;
   background-attachment: fixed;
-
-  padding: 0px;
-  padding-top: 100px;
-  margin: 0px;
-  height: 700px;
+  margin-bottom: 300px;
+  margin-left: 0px;
+  margin-right: 0px;
+  height: 800px;
+  color: white;
 }
-
+.acceuil {
+  padding-top: 300px;
+}
 .foot {
+  margin-top: 400px;
+  padding-top: 500px;
   padding: 0px;
   bottom: 0px;
   width: 100%;

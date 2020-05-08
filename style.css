@@ -10,14 +10,14 @@
   border-radius:20px 20px 20px 20px;
   border-color: aliceblue;
 }
-/*.navi a {
+.navi a {
   font-size: large;
   font-variant: small-caps;
   font-style: oblique;
   font-kerning: normal;
   color: white;
   font-weight: 400;
-}*/
+}
 
 .intern {
   background-image: url("img/prayer.jpg");
@@ -32,6 +32,14 @@
 }
 .acceuil {
   padding-top: 300px;
+  font-family: sans-serif;
+  font-style: oblique;
+  font-weight: 500;
+}
+.hr{
+  width:200px;
+  color:white;
+  border:3px dotted white;
 }
 .foot {
   margin-top: 400px;

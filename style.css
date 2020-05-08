@@ -1,25 +1,21 @@
-body{
+.navi {
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.intern {
   background-image: url("img/cielor.jpg");
+  background-size: cover;
   background-attachment: fixed;
-}
-.navi{
-  margin-bottom: 10px;
-}
-.acceuil{
-  margin:10px;
-}
-.view{
+
+  padding: 0px;
+  padding-top: 100px;
+  margin: 0px;
   height: 800px;
 }
-footer {
-  margin:10px;
-  margin-left:0px;
+
+.foot {
+  padding: 0px;
+  bottom: 0px;
   width: 100%;
-  margin-bottom: 0px;
-}
-.flink{
-  color:white;
-}
-.cd {
-  width:400px;
+  margin: 0px;
 }
